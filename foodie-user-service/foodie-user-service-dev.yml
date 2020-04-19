@@ -5,4 +5,4 @@ mariadb:
 # 功能开关
 userservice:
   registration:
-    disabled: false
+    disabled: true
